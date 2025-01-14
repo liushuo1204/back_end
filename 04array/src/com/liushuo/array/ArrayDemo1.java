@@ -1,4 +1,4 @@
-package com.liushuo;
+package com.liushuo.array;
 
 public class ArrayDemo1 {
     public static void main(String[] args) {

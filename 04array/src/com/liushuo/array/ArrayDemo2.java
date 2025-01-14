@@ -1,4 +1,4 @@
-package com.liushuo;
+package com.liushuo.array;
 
 import java.util.Scanner;
 
