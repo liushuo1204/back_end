@@ -1,6 +1,7 @@
 package com.liushuo.thisdemo;
 
 public class Student {
+    // 成员变量
     String name;
 
     public void print() {
@@ -10,6 +11,7 @@ public class Student {
         System.out.println(this.name);
     }
 
+    // 局部变量
     public void printHobby(String name) {
         System.out.println(this.name + "喜欢" + name);
     }
