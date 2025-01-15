@@ -16,9 +16,9 @@ public class Student {
         System.out.println("有String参数构造器执行了");
     }
 
-    public Student(String n, int a, char s) {
-        name = n;
-        age = a;
-        sex = s;
+    public Student(String name, int age, char sex) {
+        this.name = name;
+        this.age = age;
+        this.sex = sex;
     }
 }
